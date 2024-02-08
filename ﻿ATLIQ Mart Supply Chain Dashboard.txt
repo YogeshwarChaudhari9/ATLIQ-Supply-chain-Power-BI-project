@@ -1,0 +1,65 @@
+﻿ATLIQ Mart Supply Chain Dashboard
+
+1.At 61.21%, Surat had the highest OT % and was 5.57% higher than Vadodara, which had the lowest OT % at 57.98%.﻿﻿
+﻿﻿﻿﻿2.Surat had the highest OT % at 61.21%, followed by Ahmedabad at 58.16% and Vadodara at 57.98%.﻿﻿
+﻿﻿3.Surat had 61.21% OT %, Ahmedabad had 58.16%, and Vadodara had 57.98%.﻿﻿﻿﻿
+﻿﻿4.At 59.03%, OT % is currently only 31.43% away from the target goal of 86.09%.﻿﻿
+﻿﻿
+
+﻿ORDERS at Glance
+
+﻿1.Diary in city Ahmedabad made up 23.00% of Total order_line.﻿﻿﻿﻿
+﻿﻿2.Ahmedabad had the highest average Total order_line at 6,558.67, followed by Vadodara at 6526 and Surat at 5,947.33.﻿﻿
+﻿﻿﻿﻿3.At 59.03%, OT % is currently only 31.43% away from the target goal of 86.09%.﻿﻿
+﻿﻿
+Service Level Analysis
+
+﻿1.Propel Mart had the highest OT % (73.64%) and Expression Stores had the highest IF % (61%).﻿﻿
+﻿﻿
+﻿
+﻿Trends for Key Matrices
+
+VOFR %
+﻿1.At 96.82%, W 19 had the highest VOFR % and was 0.47% higher than W 27, which had the lowest VOFR % at 96.36%.﻿﻿﻿
+﻿2.Across all 27 week_no, VOFR % ranged from 96.36% to 96.82%.﻿﻿
+
+OT %
+﻿﻿﻿﻿1.Jul 22 in week_no W 32 made up 3.52% of OT %.﻿﻿
+﻿﻿﻿2.W 32 had the highest average OT % at 0.63, followed by W 27, W 14, and W 23.﻿﻿
+﻿
+IF%
+﻿1.At 55%, W 31 had the highest IF % and was 12.40% higher than W 10, which had the lowest IF % at 49%.﻿﻿
+﻿﻿﻿﻿2.IF % and total Target IF % are negatively correlated with each other.﻿﻿
+﻿﻿﻿﻿3.Target IF % and IF % diverged the most when the week_no was W 10, when Target IF % were 27% higher than IF %.﻿﻿
+﻿﻿﻿﻿4.Across all 27 week_no, IF % ranged from 49% to 55% and Target IF % ranged from 76.51% to 76.51%.﻿﻿
+
+OTFI %
+﻿1.OTIF % and total Target OTIF % are negatively correlated with each other.﻿﻿
+﻿﻿﻿2.Jul 22 in week_no W 31 made up 3.44% of OTIF %.﻿﻿
+﻿﻿﻿﻿3.W 14 had the highest average OTIF % at 0.30, followed by W 27, W 32, and W 23.﻿﻿
+﻿﻿
+
+﻿LIFR %
+﻿1.At 67.99%, W 31 had the highest LIFR % and was 6.80% higher than W 10, which had the lowest LIFR % at 63.66%.﻿﻿﻿﻿
+﻿﻿2.Across all 27 week_no, LIFR % ranged from 63.66% to 67.99%.﻿﻿
+﻿﻿
+﻿ORDER LINES AT Glance
+﻿﻿﻿1. At 4965, Vijay Stores had the highest Total order_line and was 54.19% higher than Viveks Stores, which had the lowest Total order_line at 3220.﻿﻿﻿
+﻿﻿2. Total order_line and LIFR % diverged the most when the customer_name was Vijay Stores, when Total order_line were 4964 higher than LIFR %.﻿﻿
+﻿﻿﻿﻿3. Across all 15 customer_name, Total order_line ranged from 3220 to 4965 and LIFR % ranged from 51.53% to 75.62%.﻿﻿
+﻿﻿﻿﻿﻿﻿﻿﻿4. 0 in Delivery staus Agreed Day Delivery made up 64.80% of Count of order_id.﻿﻿
+﻿﻿﻿
+﻿﻿﻿﻿
+﻿﻿
+﻿PRODUCTS At Glance
+
+1.Top 5 Product order is AM Milk 250, AM Milk 100
+2.AM Milk 500, AM Curd 50 and AM Curd 100
+in which ﻿AM Milk 250 accounted for 21.20% of order_qty.﻿﻿
+﻿﻿
+﻿
+﻿
+﻿
+﻿
+﻿﻿
+﻿
